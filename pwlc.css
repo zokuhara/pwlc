@@ -1,0 +1,7 @@
+/* CSS declarations go here */
+ul {
+  width: 300px;
+}
+.selected {
+  background-color: yellow;
+}
